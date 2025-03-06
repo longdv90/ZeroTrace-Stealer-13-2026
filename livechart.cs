@@ -89,3 +89,4 @@ namespace ZeroTrace_Stealer
         }
     }
 }
+
