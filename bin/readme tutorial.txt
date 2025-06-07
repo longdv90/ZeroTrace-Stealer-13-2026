@@ -13,3 +13,4 @@ and from panel you can see what u received, wallets, passwords, if you wanna see
 Have Fun!
 
 Soon We Will Share Destiny Stealer Webhook Version For Those Who Can't Port Forward.
+
